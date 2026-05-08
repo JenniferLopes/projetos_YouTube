@@ -1,4 +1,6 @@
 # Projetos do YouTube
 
-## Projeto 1:
+REPOSITÓRIO EM EDIÇÃO .......
+
+## Projeto 1: Do Zero ao site no ar com Quarto
 Apostila: https://github.com/JenniferLopes/projeto1_portifolio
